@@ -25,6 +25,9 @@ body{
     align-items: center;
     z-index: 100;
 }
+.skills{
+    margin-top: 20px;
+}
 .logo
 {
     position: relative;
@@ -167,9 +170,12 @@ body{
     text-align: center;
     font-size: 90px;
     padding-bottom: 70px;
+    padding-top: 50px;
 }
 .sub-title span{
     color: #823baf;
+    margin-top: 100px;
+  
 }
 
 .container{
